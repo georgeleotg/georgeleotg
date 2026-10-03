@@ -11,13 +11,15 @@
 ---
 
 ### 🛠️ Mis Tecnologías y Herramientas
-Aquí tienes las tecnologías con las que trabajo y tengo experiencia:
 
-| Categoría | Tecnologías / Herramientas |
-| :--- | :--- |
-| **Frontend** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| **Backend & BD** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| **Herramientas & Cloud** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
+#### **Frontend**
+`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `TailwindCSS`
+
+#### **Backend & BD**
+`Node.js` • `Python` • `Java` • `PostgreSQL` • `MongoDB`
+
+#### **Herramientas & Cloud**
+`Git` • `Docker` • `AWS` • `Linux` • `VS Code`
 
 ---
 
@@ -57,6 +59,6 @@ Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 ### 📬 Conéctate conmigo
 ¿Tienes algún proyecto en mente o simplemente quieres saludar?
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Twitter/X](https://shields.io)](https://x.com)
-[![Email](https://shields.io)](mailto:tu-correo@email.com)
+- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- **Twitter/X:** [@tu-usuario](https://x.com)
+- **Email:** tu-correo@email.com
