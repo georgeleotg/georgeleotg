@@ -15,9 +15,9 @@ Aquí tienes las tecnologías con las que trabajo y tengo experiencia:
 
 | Categoría | Tecnologías / Herramientas |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Next.js](https://shields.io) ![TailwindCSS](https://shields.io) |
-| **Backend & BD** | ![NodeJS](https://shields.io) ![Python](https://shields.io) ![Java](https://shields.io) ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io) |
-| **Herramientas & Cloud** | ![Git](https://shields.io) ![Docker](https://shields.io) ![AWS](https://shields.io) ![Linux](https://shields.io) ![VS Code](https://shields.io) |
+| **Frontend** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
+| **Backend & BD** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
+| **Herramientas & Cloud** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
 
 ---
 
